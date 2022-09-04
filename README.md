@@ -1,2 +1,1 @@
-# hwei-hw.github.io
-My personal webpage
+# Hao Wei's homepage
